@@ -1,4 +1,4 @@
-# wbalCruves
+# wbal
 Test 3min intervals to exhaustion.
 Wbal (1) with wko5 FRC & mFTP (dark pink)
 Wbal (2) with CP & AWC from MMP (20' & 3') (light blue)
